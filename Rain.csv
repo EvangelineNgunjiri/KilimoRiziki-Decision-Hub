@@ -1,9 +1,81 @@
-Region,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022
-N-Western,296,139.3,170,219.3,226.23,282.7,309.5,380.8,176.5,103.6
-N-Eastern,529,396.6,394.2,367,367.7,971.3,555.3,427,247.7,246.1
-Western,1793.6,1508.4,1690.8,1407.2,1715.1,1830.5,1855.1,1971.7,1534.5,1369.6
-C-Rift Valley,1173.5,744,901.8,888.7,786.3,1169.9,1062.6,1212.5,784.1,846.4
-Central,1000.5,1032.9,1224.3,908.4,1033.4,1540.2,1582.8,1334.2,987.9,770.6
-Nairobi,902,686.8,1110,877.2,618.1,1195.5,1006.3,1061,846.4,697.2
-S-Eastern,621,491.5,573.4,392.7,601.6,1004.2,807.9,843.1,388.4,291.8
-Coastal,1020.8,997.5,947.3,571.1,1061.2,1314.2,1482,938.5,495.2,716.0
+Year,Region,Value
+2013,N-Western,296
+2014,N-Western,139.3
+2015,N-Western,170
+2016,N-Western,219.3
+2017,N-Western,226.23
+2018,N-Western,282.7
+2019,N-Western,309.5
+2020,N-Western,380.8
+2021,N-Western,176.5
+2022,N-Western,103.6
+2013,N-Eastern,529
+2014,N-Eastern,396.6
+2015,N-Eastern,394.2
+2016,N-Eastern,367
+2017,N-Eastern,367.7
+2018,N-Eastern,971.3
+2019,N-Eastern,555.3
+2020,N-Eastern,427
+2021,N-Eastern,247.7
+2022,N-Eastern,246.1
+2013,Western,1793.6
+2014,Western,1508.4
+2015,Western,1690.8
+2016,Western,1407.2
+2017,Western,1715.1
+2018,Western,1830.5
+2019,Western,1855.1
+2020,Western,1971.7
+2021,Western,1534.5
+2022,Western,1369.6
+2013,C-Rift Valley,1173.5
+2014,C-Rift Valley,744
+2015,C-Rift Valley,901.8
+2016,C-Rift Valley,888.7
+2017,C-Rift Valley,786.3
+2018,C-Rift Valley,1169.9
+2019,C-Rift Valley,1062.6
+2020,C-Rift Valley,1212.5
+2021,C-Rift Valley,784.1
+2022,C-Rift Valley,846.4
+2013,Central,1000.5
+2014,Central,1032.9
+2015,Central,1224.3
+2016,Central,908.4
+2017,Central,1033.4
+2018,Central,1540.2
+2019,Central,1582.8
+2020,Central,1334.2
+2021,Central,987.9
+2022,Central,770.6
+2013,Nairobi,902
+2014,Nairobi,686.8
+2015,Nairobi,1110
+2016,Nairobi,877.2
+2017,Nairobi,618.1
+2018,Nairobi,1195.5
+2019,Nairobi,1006.3
+2020,Nairobi,1061
+2021,Nairobi,846.4
+2022,Nairobi,697.2
+2013,S-Eastern,621
+2014,S-Eastern,491.5
+2015,S-Eastern,573.4
+2016,S-Eastern,392.7
+2017,S-Eastern,601.6
+2018,S-Eastern,1004.2
+2019,S-Eastern,807.9
+2020,S-Eastern,843.1
+2021,S-Eastern,388.4
+2022,S-Eastern,291.8
+2013,Coastal,1020.8
+2014,Coastal,997.5
+2015,Coastal,947.3
+2016,Coastal,571.1
+2017,Coastal,1061.2
+2018,Coastal,1314.2
+2019,Coastal,1482
+2020,Coastal,938.5
+2021,Coastal,495.2
+2022,Coastal,716
