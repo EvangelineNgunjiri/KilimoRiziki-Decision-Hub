@@ -1,4 +1,4 @@
-# Agricultural Decision-Making Project
+# KilimoRiziki Decision Hub
 **By:**
  Evangeline Ngunjiri |  Jennifer Njeri |  Celestine Imelda |  Annette Kalekye |  Cynthia Adisa |  Kevin Kagia
 
