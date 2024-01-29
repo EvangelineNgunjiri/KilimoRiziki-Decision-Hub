@@ -68,7 +68,7 @@ We performed predictive modeling sspecific to each item.
 
 ## Reccomender system
 Using the predictive modelling tools, we managed to create a reccomender system that takes into account the risk criteria for each crop annually and per county. Here is a sample image to demonstrate the system.
-![image](WhatsApp Image 2024-01-29 at 15.00.43.jpeg)
+![image](https://github.com/EvangelineNgunjiri/KilimoRiziki-Decision-Hub/blob/kagia/WhatsApp%20Image%202024-01-29%20at%2015.00.43.jpeg)
 
 ## Conclusion
 The KilimoRiziki Decision Hub recommender system integrates risk criteria, offering precise investment recommendations for each crop annually and per county. This streamlined approach enhances decision-making, supporting sustainable growth in the agricultural sector.
