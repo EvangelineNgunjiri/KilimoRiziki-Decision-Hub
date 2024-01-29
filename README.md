@@ -1,5 +1,7 @@
 # Agricultural Decision-Making Project
-**By:** Kevin Kagia
+**By:**
+ Evangeline Ngunjiri |  Jennifer Njeri |  Celestine Imelda |  Annette Kalekye |  Cynthia Adisa |  Kevin Kagia
+
 
 ---
 
@@ -66,7 +68,7 @@ We performed predictive modeling sspecific to each item.
 - **Model:** Content-Based Filtering
 - **Algorithm:** KilimoRiziki Recommender System, leveraging features identified through predictive models, bivariate, and univariate analysis.
 
-## Reccomender system
+## Recommender system
 Using the predictive modelling tools, we managed to create a reccomender system that takes into account the risk criteria for each crop annually and per county. Here is a sample image to demonstrate the system.
 ![image](https://github.com/EvangelineNgunjiri/KilimoRiziki-Decision-Hub/blob/kagia/WhatsApp%20Image%202024-01-29%20at%2015.00.43.jpeg)
 
